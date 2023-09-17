@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Raj</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">Trying to learn Backend.</h3>
 <h3 align="center">Currently Studying at Bennett University in 2nd Year</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyaaam&label=Profile%20views&color=0e75b6&style=flat" alt="satyaaam" /> </p>
 
@@ -7,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/satyamraj961686" target="blank"><img src="https://img.shields.io/twitter/follow/satyamraj961686?logo=twitter&style=for-the-badge" alt="satyamraj961686" /></a> </p>
 
-- 🔭 I’m currently working on **EduShark**
+- 🔭 I’m currently working on **Earth**
 
 - 🌱 I’m currently learning **NextJs, Zustand, ReactJs, AI, Ml**
 
