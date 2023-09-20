@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satyam Raj</h1>
+<h1 align="center">Hi 👋, I'm Satyam Raj.</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <h3 align="center">Currently Learning Backend.</h3>
 <h3 align="center">Currently Studying at Bennett University in 2nd Year</h3>
