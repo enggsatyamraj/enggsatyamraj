@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Earth**
 
-- 🌱 I’m currently learning **NextJs, Zustand, ReactJs, AI, Ml**
+- 🌱 I’m currently learning **NextJs, Zustand, ReactJs, AI, ML**
 
 - 💬 Ask me about **HTML, CSS, Js, Reactjs, NextJs**
 
