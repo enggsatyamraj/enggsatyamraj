@@ -1,33 +1,132 @@
-<h1 align="center">Hi 👋, I'm Satyam Raj.</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
-<h3 align="center">Currently learnin new things.</h3>
-<h3 align="center">Currently Studying at Bennett University in 2nd Year</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyaaam&label=Profile%20views&color=0e75b6&style=flat" alt="satyaaam" /> </p>
+# <div align="center">👨‍💻 Satyam Raj | Fullstack Developer</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyaaam" alt="satyaaam" /></a> </p>
+<div align="center">
+  <a href="https://enggsatyamraj.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/enggsatyamraj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/SatyamRaj961686" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.youtube.com/@Mobilemaniaplays" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</div>
 
-<p align="left"> <a href="https://twitter.com/satyamraj961686" target="blank"><img src="https://img.shields.io/twitter/follow/satyamraj961686?logo=twitter&style=for-the-badge" alt="satyamraj961686" /></a> </p>
+## About Me 👋
 
-- 🔭 I’m currently working on **Earth.**
+Fullstack Developer and AI/ML Engineer with a passion for building innovative applications and solutions. With over 2 years of experience, I specialize in React, React Native, and Node.js ecosystems. Currently building scalable APIs and optimizing backend services at Digital Work India.
 
-- 🌱 I’m currently learning **NextJs, Zustand, ReactJs, AI, ML**
+💼 **Currently at**: Digital Work India (Backend Developer Intern)  
+📍 **Location**: Greater Noida, India  
+🎓 **Education**: Bennett University, BCS (2022-2026)
 
-- 💬 Ask me about **HTML, CSS, Js, Reactjs, NextJs**
+## 🚀 Tech Stack
 
-- 📫 How to reach me **sattu62025@gmail.com**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/iamsatyamraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iamsatyamraj" height="30" width="40" /></a>
-<a href="https://twitter.com/satyamraj961686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyamraj961686" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/satyam-raj-ab4942256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-raj-ab4942256/" height="30" width="40" /></a>
-</p>
+## 🏆 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### [JTodo](https://jtodo-one.vercel.app/) 
+*Jan 2025 - Present*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyaaam&show_icons=true&locale=en&layout=compact" alt="satyaaam" /></p>
+A project management tool inspired by Jira, designed to manage multiple projects within a single Kanban board. Provides an intuitive interface for tracking tasks across different projects simultaneously.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyaaam&show_icons=true&locale=en" alt="satyaaam" /></p>
+**Tech**: Next.js, Node.js, Express, Mongoose, shadcn/ui
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyaaam&" alt="satyaaam" /></p>
+---
+
+### [FolderMap](https://foldermap-one.vercel.app/)
+*Jan 2025 - Present*
+
+A tool to generate and visualize folder structure maps by uploading project directories. Offers a responsive UI for developers to explore complex folder hierarchies effortlessly. Includes a Chrome extension for enhanced accessibility.
+
+**Tech**: Next.js, Tailwind CSS, shadcn/ui, Chrome Extension
+
+---
+
+### [Discord Arena](https://discordarena.com/)
+*Jan 2024 - Present*
+
+A platform for buying and selling Discord accounts and services. Features strong SEO, achieving an average ranking of 8.1 on Google Chrome, and includes Google Analytics for monitoring and optimization.
+
+**Tech**: Next.js, Tailwind CSS, Google Analytics, SEO
+
+---
+
+### [Rentify](https://github.com/enggsatyamraj/rentify)
+*Jan 2024 - Present*
+
+A comprehensive platform for renting properties, designed as a fully functional clone of Airbnb. Features user authentication, property listings, booking management, and payment processing.
+
+**Tech**: React Native, Node.js, Express, MongoDB, Cloudinary, Nodemailer
+
+---
+
+### [Study Notion](https://studynotion-edtech.vercel.app/)
+*June 2023 - Aug 2023*
+
+An online platform for buying and selling courses, developed using the MERN stack. Features distinct roles with specific permissions and secure authentication through JWT.
+
+**Tech**: Next.js, JavaScript, MongoDB, Node.js, Express.js, Tailwind CSS
+
+---
+
+### [Metromate](https://metromate.vercel.app/)
+*April 2023*
+
+A commuting platform designed to simplify daily travel. Includes a graph data structure for efficient route management, making it a reliable tool for commuters.
+
+**Tech**: React, Express, Node.js, MongoDB, Tailwind CSS
+
+---
+
+### [Quick API](https://quickapi-chi.vercel.app/)
+*June 2023*
+
+A platform that enables developers to create custom APIs from JSON data quickly. Supports the design of complex APIs with customizable schemas, content duration, and nested structures.
+
+**Tech**: React, Express, Node.js, MongoDB, Tailwind CSS, JSON
+
+## 🏅 Hackathons & Events
+
+- **Google Project Showcase (Nov 2023)** - Developed "Not So Phishy", a ML-based solution to combat phishing attacks
+- **Synapse College Event (Sept 2023)** - Developed "ShareWheel", an Android app for booking shared rides at Bennett University
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enggsatyamraj&show_icons=true&theme=tokyonight" alt="Satyam's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enggsatyamraj&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 📫 Get In Touch
+
+- **Email**: engg.satyamraj@example.com
+- **LinkedIn**: [enggsatyamraj](https://linkedin.com/in/enggsatyamraj)
+- **Twitter**: [@SatyamRaj961686](https://twitter.com/SatyamRaj961686)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=enggsatyamraj&color=blue&style=flat-square" alt="Profile views" />
+</div>
