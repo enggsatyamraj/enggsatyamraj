@@ -13,11 +13,14 @@
   <a href="https://www.youtube.com/@Mobilemaniaplays" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
+  <a href="https://medium.com/@engg.satyamraj" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
 </div>
 
 ## About Me 👋
 
-Fullstack Developer and AI/ML Engineer with a passion for building innovative applications and solutions. With over 2 years of experience, I specialize in React, React Native, and Node.js ecosystems. Currently building scalable APIs and optimizing backend services at Digital Work India.
+Fullstack Developer and AI/ML Engineer with a passion for building innovative applications and solutions. With over 2 years of experience, I specialize in React, React Native, and Node.js ecosystems. Currently building scalable APIs and optimizing backend services at Digital Work India. I also write technical articles on Medium with some articles receiving over 5,000+ views worldwide.
 
 💼 **Currently at**: Digital Work India (Backend Developer Intern)  
 📍 **Location**: Greater Noida, India  
@@ -84,7 +87,7 @@ Fullstack Developer and AI/ML Engineer with a passion for building innovative ap
 
 A project management tool inspired by Jira, designed to manage multiple projects within a single Kanban board. Provides an intuitive interface for tracking tasks across different projects simultaneously.
 
-**Tech**: <code>Next.js</code> <code>Node.js</code> <code>Express</code> <code>Mongoose</code> <code>shadcn/ui</code>
+**Tech**: <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose"/> <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=ui&logoColor=white" alt="shadcn/ui"/>
 
 ---
 
@@ -93,7 +96,7 @@ A project management tool inspired by Jira, designed to manage multiple projects
 
 A tool to generate and visualize folder structure maps by uploading project directories. Offers a responsive UI for developers to explore complex folder hierarchies effortlessly. Includes a Chrome extension for enhanced accessibility.
 
-**Tech**: <code>Next.js</code> <code>Tailwind CSS</code> <code>shadcn/ui</code> <code>Chrome Extension</code>
+**Tech**: <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/> <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=ui&logoColor=white" alt="shadcn/ui"/> <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Chrome Extension"/>
 
 ---
 
@@ -102,7 +105,7 @@ A tool to generate and visualize folder structure maps by uploading project dire
 
 A platform for buying and selling Discord accounts and services. Features strong SEO, achieving an average ranking of 8.1 on Google Chrome, and includes Google Analytics for monitoring and optimization.
 
-**Tech**: <code>Next.js</code> <code>Tailwind CSS</code> <code>Google Analytics</code> <code>SEO</code>
+**Tech**: <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/> <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" alt="Google Analytics"/> <img src="https://img.shields.io/badge/SEO-47A248?style=flat-square&logo=google&logoColor=white" alt="SEO"/>
 
 ---
 
@@ -111,7 +114,7 @@ A platform for buying and selling Discord accounts and services. Features strong
 
 A comprehensive platform for renting properties, designed as a fully functional clone of Airbnb. Features user authentication, property listings, booking management, and payment processing.
 
-**Tech**: <code>React Native</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Cloudinary</code> <code>Nodemailer</code>
+**Tech**: <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/> <img src="https://img.shields.io/badge/Nodemailer-339933?style=flat-square&logo=gmail&logoColor=white" alt="Nodemailer"/>
 
 ---
 
@@ -120,7 +123,7 @@ A comprehensive platform for renting properties, designed as a fully functional 
 
 An online platform for buying and selling courses, developed using the MERN stack. Features distinct roles with specific permissions and secure authentication through JWT.
 
-**Tech**: <code>Next.js</code> <code>JavaScript</code> <code>MongoDB</code> <code>Node.js</code> <code>Express.js</code> <code>Tailwind CSS</code>
+**Tech**: <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 
 ---
 
@@ -129,7 +132,7 @@ An online platform for buying and selling courses, developed using the MERN stac
 
 A commuting platform designed to simplify daily travel. Includes a graph data structure for efficient route management, making it a reliable tool for commuters.
 
-**Tech**: <code>React</code> <code>Express</code> <code>Node.js</code> <code>MongoDB</code> <code>Tailwind CSS</code>
+**Tech**: <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 
 ---
 
@@ -138,7 +141,7 @@ A commuting platform designed to simplify daily travel. Includes a graph data st
 
 A platform that enables developers to create custom APIs from JSON data quickly. Supports the design of complex APIs with customizable schemas, content duration, and nested structures.
 
-**Tech**: <code>React</code> <code>Express</code> <code>Node.js</code> <code>MongoDB</code> <code>Tailwind CSS</code> <code>JSON</code>
+**Tech**: <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"/>
 
 ## 🏅 Hackathons & Events
 
