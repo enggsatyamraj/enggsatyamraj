@@ -1,16 +1,16 @@
 # <div align="center">👨‍💻 Satyam Raj | Fullstack Developer</div>
 
 <div align="center">
-  <a href="https://enggsatyamraj.vercel.app" target="_blank">
+  <a href="https://enggsatyamraj.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/enggsatyamraj" target="_blank">
+  <a href="https://linkedin.com/in/enggsatyamraj" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/SatyamRaj961686" target="_blank">
+  <a href="https://twitter.com/SatyamRaj961686" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.youtube.com/@Mobilemaniaplays" target="_blank">
+  <a href="https://www.youtube.com/@Mobilemaniaplays" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </div>
@@ -22,6 +22,37 @@ Fullstack Developer and AI/ML Engineer with a passion for building innovative ap
 💼 **Currently at**: Digital Work India (Backend Developer Intern)  
 📍 **Location**: Greater Noida, India  
 🎓 **Education**: Bennett University, BCS (2022-2026)
+
+## 💼 Work Experience
+
+### Backend Developer Intern at Digital Work India
+*Oct 2024 - Present*
+
+- Developed scalable APIs and implemented JWT authentication
+- Optimized PostgreSQL databases for efficient data handling
+- Integrated Redis, BullMQ, and microservices architecture
+- Implemented payment gateways and advanced features
+- Optimized server response times and app load times
+
+### Fullstack Developer at Rakshak Code
+*2023 - Present*
+
+<img src="https://www.rakshakcode.com/_next/static/media/rakshakcodeLogo.9928ed91.svg" width="120" alt="Rakshak Code">
+
+- Responsible for core backend infrastructure using Node.js, TypeScript, Express, Redis
+- Built distributed and scalable systems utilizing BullMQ and Agenda
+- Developed comprehensive admin panels with role-based access control
+- Designed and implemented partner portals and public-facing website
+
+### React Native Developer at Pagalfan
+*2023 - 2024*
+
+<img src="https://static.wixstatic.com/media/dc7cf0_1843b1df707c454c9aa5314ecd43914a~mv2.png" width="120" alt="Pagalfan">
+
+- Developed complex UI components and interactions in React Native
+- Implemented state management and API integration with Supabase
+- Created responsive and cross-platform mobile experiences
+- Optimized app performance and reduced load times
 
 ## 🚀 Tech Stack
 
@@ -42,11 +73,13 @@ Fullstack Developer and AI/ML Engineer with a passion for building innovative ap
   <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/BullMQ-FF6C37?style=for-the-badge&logo=redis&logoColor=white" alt="BullMQ"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </div>
 
 ## 🏆 Featured Projects
 
-### [JTodo](https://jtodo-one.vercel.app/) 
+### JTodo
 *Jan 2025 - Present*
 
 A project management tool inspired by Jira, designed to manage multiple projects within a single Kanban board. Provides an intuitive interface for tracking tasks across different projects simultaneously.
@@ -73,7 +106,7 @@ A platform for buying and selling Discord accounts and services. Features strong
 
 ---
 
-### [Rentify](https://github.com/enggsatyamraj/rentify)
+### Rentify
 *Jan 2024 - Present*
 
 A comprehensive platform for renting properties, designed as a fully functional clone of Airbnb. Features user authentication, property listings, booking management, and payment processing.
