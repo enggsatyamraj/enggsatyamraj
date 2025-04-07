@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 Satyam Raj | Fullstack Developer</div>
 
 <div align="center">
-  <a href="https://enggsatyamraj.vercel.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.enggsatyam.me/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/enggsatyamraj" target="_blank" rel="noopener noreferrer">
@@ -84,7 +84,7 @@ Fullstack Developer and AI/ML Engineer with a passion for building innovative ap
 
 A project management tool inspired by Jira, designed to manage multiple projects within a single Kanban board. Provides an intuitive interface for tracking tasks across different projects simultaneously.
 
-**Tech**: Next.js, Node.js, Express, Mongoose, shadcn/ui
+**Tech**: <code>Next.js</code> <code>Node.js</code> <code>Express</code> <code>Mongoose</code> <code>shadcn/ui</code>
 
 ---
 
@@ -93,7 +93,7 @@ A project management tool inspired by Jira, designed to manage multiple projects
 
 A tool to generate and visualize folder structure maps by uploading project directories. Offers a responsive UI for developers to explore complex folder hierarchies effortlessly. Includes a Chrome extension for enhanced accessibility.
 
-**Tech**: Next.js, Tailwind CSS, shadcn/ui, Chrome Extension
+**Tech**: <code>Next.js</code> <code>Tailwind CSS</code> <code>shadcn/ui</code> <code>Chrome Extension</code>
 
 ---
 
@@ -102,7 +102,7 @@ A tool to generate and visualize folder structure maps by uploading project dire
 
 A platform for buying and selling Discord accounts and services. Features strong SEO, achieving an average ranking of 8.1 on Google Chrome, and includes Google Analytics for monitoring and optimization.
 
-**Tech**: Next.js, Tailwind CSS, Google Analytics, SEO
+**Tech**: <code>Next.js</code> <code>Tailwind CSS</code> <code>Google Analytics</code> <code>SEO</code>
 
 ---
 
@@ -111,7 +111,7 @@ A platform for buying and selling Discord accounts and services. Features strong
 
 A comprehensive platform for renting properties, designed as a fully functional clone of Airbnb. Features user authentication, property listings, booking management, and payment processing.
 
-**Tech**: React Native, Node.js, Express, MongoDB, Cloudinary, Nodemailer
+**Tech**: <code>React Native</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Cloudinary</code> <code>Nodemailer</code>
 
 ---
 
@@ -120,7 +120,7 @@ A comprehensive platform for renting properties, designed as a fully functional 
 
 An online platform for buying and selling courses, developed using the MERN stack. Features distinct roles with specific permissions and secure authentication through JWT.
 
-**Tech**: Next.js, JavaScript, MongoDB, Node.js, Express.js, Tailwind CSS
+**Tech**: <code>Next.js</code> <code>JavaScript</code> <code>MongoDB</code> <code>Node.js</code> <code>Express.js</code> <code>Tailwind CSS</code>
 
 ---
 
@@ -129,7 +129,7 @@ An online platform for buying and selling courses, developed using the MERN stac
 
 A commuting platform designed to simplify daily travel. Includes a graph data structure for efficient route management, making it a reliable tool for commuters.
 
-**Tech**: React, Express, Node.js, MongoDB, Tailwind CSS
+**Tech**: <code>React</code> <code>Express</code> <code>Node.js</code> <code>MongoDB</code> <code>Tailwind CSS</code>
 
 ---
 
@@ -138,7 +138,7 @@ A commuting platform designed to simplify daily travel. Includes a graph data st
 
 A platform that enables developers to create custom APIs from JSON data quickly. Supports the design of complex APIs with customizable schemas, content duration, and nested structures.
 
-**Tech**: React, Express, Node.js, MongoDB, Tailwind CSS, JSON
+**Tech**: <code>React</code> <code>Express</code> <code>Node.js</code> <code>MongoDB</code> <code>Tailwind CSS</code> <code>JSON</code>
 
 ## 🏅 Hackathons & Events
 
