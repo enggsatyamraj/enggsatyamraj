@@ -22,25 +22,16 @@
 
 Fullstack Developer and AI/ML Engineer with a passion for building innovative applications and solutions. With over 2 years of experience, I specialize in React, React Native, and Node.js ecosystems. Currently building scalable APIs and optimizing backend services at Digital Work India. I also write technical articles on Medium with some articles receiving over 5,000+ views worldwide.
 
-💼 **Currently at**: Digital Work India (Backend Developer Intern)  
+💼 **Currently at**: Digital Work India (Fullstack Developer Intern)  
 📍 **Location**: Greater Noida, India  
-🎓 **Education**: Bennett University, BCS (2022-2026)
+🎓 **Education**: Bennett University, BTech(CSE) (2022-2026)
 
 ## 💼 Work Experience
 
-### Backend Developer Intern at Digital Work India
+### Fullstack Developer at Rakshak Code
 *Oct 2024 - Present*
 
-- Developed scalable APIs and implemented JWT authentication
-- Optimized PostgreSQL databases for efficient data handling
-- Integrated Redis, BullMQ, and microservices architecture
-- Implemented payment gateways and advanced features
-- Optimized server response times and app load times
-
-### Fullstack Developer at Rakshak Code
-*2023 - Present*
-
-<img src="https://www.rakshakcode.com/_next/static/media/rakshakcodeLogo.9928ed91.svg" width="120" alt="Rakshak Code">
+<img src="https://www.rakshakcode.com/_next/static/media/rakshakcodeLogo.9928ed91.svg" width="80" alt="Rakshak Code">
 
 - Responsible for core backend infrastructure using Node.js, TypeScript, Express, Redis
 - Built distributed and scalable systems utilizing BullMQ and Agenda
@@ -48,9 +39,9 @@ Fullstack Developer and AI/ML Engineer with a passion for building innovative ap
 - Designed and implemented partner portals and public-facing website
 
 ### React Native Developer at Pagalfan
-*2023 - 2024*
+*Jan 2025 - Present*
 
-<img src="https://static.wixstatic.com/media/dc7cf0_1843b1df707c454c9aa5314ecd43914a~mv2.png" width="120" alt="Pagalfan">
+<img src="https://static.wixstatic.com/media/dc7cf0_1843b1df707c454c9aa5314ecd43914a~mv2.png" width="80" alt="Pagalfan">
 
 - Developed complex UI components and interactions in React Native
 - Implemented state management and API integration with Supabase
@@ -114,7 +105,7 @@ A platform for buying and selling Discord accounts and services. Features strong
 
 A comprehensive platform for renting properties, designed as a fully functional clone of Airbnb. Features user authentication, property listings, booking management, and payment processing.
 
-**Tech**: <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/> <img src="https://img.shields.io/badge/Nodemailer-339933?style=flat-square&logo=gmail&logoColor=white" alt="Nodemailer"/>
+**Tech**: <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/> <img src="https://img.shields.io/badge/Nodemailer-339933?style=flat-square&logo=gmail&logoColor=white" alt="Nodemailer"/>
 
 ---
 
