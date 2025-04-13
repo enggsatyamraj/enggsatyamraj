@@ -73,7 +73,7 @@ Fullstack Developer and AI/ML Engineer with a passion for building innovative ap
 
 ## 🏆 Featured Projects
 
-### JTodo
+### [JTodo](https://jtodo-one.vercel.app/)
 *Jan 2025 - Present*
 
 A project management tool inspired by Jira, designed to manage multiple projects within a single Kanban board. Provides an intuitive interface for tracking tasks across different projects simultaneously.
