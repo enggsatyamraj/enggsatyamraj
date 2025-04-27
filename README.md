@@ -4,7 +4,7 @@
   <a href="https://www.enggsatyam.me/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/enggsatyamraj" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/enggsatyam" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/SatyamRaj961686" target="_blank" rel="noopener noreferrer">
