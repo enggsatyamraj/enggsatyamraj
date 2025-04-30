@@ -74,8 +74,10 @@ Fullstack Developer and AI/ML Engineer with a passion for building innovative ap
 ## 🏆 Featured Projects
 
 ### [Resume Enhancer](https://resumeenhance.vercel.app/)
-*Apr 2025 - Present*
+*Apr 2025*
+
 An AI-powered resume optimization tool that analyzes job descriptions and enhances resumes to match specific job requirements. Strategically incorporates relevant skills and keywords throughout the resume to maximize ATS compatibility and boost interview chances.
+
 **Tech**: <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini AI"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=ui&logoColor=white" alt="shadcn/ui"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
 
 ---
