@@ -25,7 +25,7 @@
 
 Fullstack Developer and AI/ML Engineer with a passion for building innovative applications and solutions. With over 2 years of experience, I specialize in React, React Native, and Node.js ecosystems. Currently building scalable APIs and optimizing backend services at Digital Work India. I also write technical articles on Medium with some articles receiving over 5,000+ views worldwide.
 
-💼 **Currently at**: Digital Work India (Fullstack Developer Intern)  
+💼 **Currently at**: Looking for internship
 📍 **Location**: Greater Noida, India  
 🎓 **Education**: Bennett University, BTech(CSE) (2022-2026)
 
