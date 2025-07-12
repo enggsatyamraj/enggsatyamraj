@@ -32,7 +32,7 @@ Fullstack Developer and AI/ML Engineer with a passion for building innovative ap
 ## 💼 Work Experience
 
 ### Fullstack Developer at Rakshak Code
-*Oct 2024 - Present*
+*Oct 2024 - June 2025*
 
 <img src="https://www.rakshakcode.com/_next/static/media/rakshakcodeLogo.9928ed91.svg" width="80" alt="Rakshak Code">
 
@@ -42,7 +42,7 @@ Fullstack Developer and AI/ML Engineer with a passion for building innovative ap
 - Designed and implemented partner portals and public-facing website
 
 ### React Native Developer at Pagalfan
-*Jan 2025 - Present*
+*Jan 2025 - May 2025*
 
 <img src="https://static.wixstatic.com/media/dc7cf0_1843b1df707c454c9aa5314ecd43914a~mv2.png" width="80" alt="Pagalfan">
 
