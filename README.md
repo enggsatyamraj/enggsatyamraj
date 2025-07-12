@@ -161,7 +161,7 @@ A platform that enables developers to create custom APIs from JSON data quickly.
 ## 📫 Get In Touch
 
 - **Email**: engg.satyamraj@example.com
-- **LinkedIn**: [enggsatyamraj](https://linkedin.com/in/enggsatyamraj)
+- **LinkedIn**: [enggsatyamraj](https://linkedin.com/in/enggsatyam)
 - **Twitter**: [@SatyamRaj961686](https://twitter.com/SatyamRaj961686)
 
 ---
